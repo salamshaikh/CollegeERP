@@ -1,1 +1,15 @@
-README FILE
+                                                      README FILE
+                                                      
+CollegeErp-Beta is an intiative to build a robust erp system for colleges specially for but no limited mumbai university.
+
+All the source code is provided under Academic Public License. See LICENSE.txt in CollegePhp Folder for complete terms and conditions.
+
+Copy CollegePhp and mpdf folder directly to var/www/html/
+
+Assign 775 permission to all file within both the folders
+
+Open host-name/CollgePhp/setup.php to configure.
+
+Enter your mysql username and password along with institute name & address.
+
+************************************************************************************************************
